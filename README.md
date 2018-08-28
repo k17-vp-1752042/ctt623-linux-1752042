@@ -7,6 +7,7 @@
 * Môn học: Thực hành Linux
 ---
 # Tuần 1
+[ Link code ](https://github.com/k17-vp-1752042/ctt623-linux-1752042/tree/master/BTTH01)
 ---
 # Tuần 2
 ---
